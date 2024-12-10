@@ -62,13 +62,11 @@
 - **Human Feedback Rankings**:
   - **#1** in relevance, personalization, and usability across 120 participants.
 
-![Performance Chart](https://via.placeholder.com/800x400?text=Performance+Chart)
-
 ---
 
 ## 🤝 **Acknowledgments**
 We extend our gratitude to the developers of **FoodSAM**, whose work on the **Segment Anything Model** (SAM) serves as a cornerstone of our ingredient detection pipeline.  
-Find the **FoodSAM paper** and its implementation here: [FoodSAM GitHub Repository](https://github.com/your-link).
+Find the **FoodSAM paper** and its implementation here: [FoodSAM GitHub Repository](https://github.com/jamesjg/FoodSAM/).
 
 ---
 
