@@ -1,6 +1,6 @@
 # Pic2Plate: AI-Powered Personalized Recipe Recommendations
 
-![Pic2Plate Banner](https://via.placeholder.com/800x200?text=Pic2Plate+Logo)
+![Pic2Plate Banner](pic2plate.png)
 
 ---
 
