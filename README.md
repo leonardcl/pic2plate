@@ -36,6 +36,7 @@
 ---
 
 ## 🛠 **How It Works**
+![Pic2Plate Banner](framework.png)
 1. **Upload an Image**:
    - Take a photo of your ingredients using your smartphone or upload one from your device.
 
