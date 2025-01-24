@@ -5,7 +5,7 @@
 ---
 
 **Pic2Plate** is a cutting-edge recipe recommendation framework that combines **Vision-Language Models (VLMs)** and **Retrieval-Augmented Generation (RAG)**. Designed to deliver highly personalized, context-aware recipes, Pic2Plate takes a user-centric approach to meal planning by seamlessly connecting ingredient recognition with advanced recipe retrieval techniques.
-
+ 
 ---
 
 ## 📖 **Table of Contents**
